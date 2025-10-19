@@ -13,7 +13,7 @@ kernelspec:
 
 # Lemon Rice
 
-![Lemon Rice](images/lemon-rice.jpg)
+![Lemon Rice](img/lemon-rice.jpg)
 
 ## Ingredients
 - 1 cup rice
